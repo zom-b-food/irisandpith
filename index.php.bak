@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<meta http-equiv="cache-control" content="no-cache"/>
+
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<meta name="robots" content="index, follow" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="description" content="author GW Latimer: Walking Through Brambles" available at thefogandwave.com and milkandbourbon.com/>
+		<meta name="author" content="gwlatimer.com">
+		<title>HOME - G.W. Latimer www.gwlatimer.com</title>
+		<meta name='apple-mobile-web-app-capable' content='yes'>
+		<meta name='apple-touch-fullscreen' content='yes'>
+		<meta name='apple-mobile-web-app-status-bar-style' content='black'>
+		<meta name='format-detection' content='telephone=no'>
+		<link rel="dns-prefetch" href="http://www.gwlatimer.com/">
+		<!--  favicon -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<!--  apple-touch-icon -->
+		<link rel="apple-touch-icon-precomposed" sizes="144x144"
+		href="/resources/img/ico/apple-touch-icon-144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114"
+		href="/resources/img/ico/apple-touch-icon-114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72"
+		href="/resources/img/ico/apple-touch-icon-72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="/resources/img/ico/apple-touch-icon-57-precomposed.png">
+		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+		<!-- FontAwesome CSS -->
+		<link href="/resources/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		<!-- Material Icons CSS -->
+		<link href="/resources/fonts/iconfont/material-icons.css" rel="stylesheet">
+		<!-- animate CSS -->
+		<link href="/resources/css/animate.min.css" rel="stylesheet">
+		<!-- owl.carousel -->
+		<link href="/resources/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
+		<link href="/resources/owl.carousel/assets/owl.theme.default.min.css" rel="stylesheet">
+		<!-- flexslider -->
+		<link href="/resources/flexSlider/flexslider.css" rel="stylesheet">
+		<!-- materialize -->
+		<link href="/resources/materialize/css/materialize.min.css" rel="stylesheet">
+		<!-- Bootstrap -->
+		<link href="/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Style CSS -->
+		<!--<link href="style.css" rel="stylesheet">-->
+		<link href="/resources/css/fog.css" rel="stylesheet">
+		<link href="/resources/css/components.min.css" rel="stylesheet">
+		<!-- RS5.0 Main Stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/resources/revolution/css/settings.css">
+		<!-- RS5.0 Layers and Navigation Styles -->
+		<link rel="stylesheet" type="text/css" href="/resources/revolution/css/layers.css">
+		<link rel="stylesheet" type="text/css" href="/resources/revolution/css/navigation.css">
+		<style type="text/css">
+			small {background-color:#F6483F;}
+			.red {border-radius:8px;}
+		</style>
+	</head>
+	<body id="top" data-spy="scroll" data-target="#materialize-menu" data-offset="100">
+		<div class="topwrap">
+			<!--header start-->
+			<header id="header" class="tt-nav">
+				<div class="header-sticky light-header nav-boxed-color">
+					<div class="navrow">
+						<div id="materialize-menu" class="menuzord">
+							<!--logo start-->
+							<a href="index.php" class="logo-brand">
+								<img class="retina img-responsive" src="/resources/img/logo.png" alt=""/>
+							</a>
+							<!--logo end-->
+							<!-- onepage menu start-->
+							<ul class="nav menuzord-menu pull-right op-nav">
+								<li class="active">
+									<a href="#home" data-scroll>Home</a>
+								</li>
+								<li>
+									<a href="#bk-reviews" data-scroll>Book Reviews</a>
+								</li>
+								<li>
+									<a href="#about" data-scroll>About</a>
+								</li>
+								<li><a href="#writer-teacher" data-scroll>What I Do<span
+								class="indicator"></span></a>
+								<ul class="dropdown" style="right: auto; display: none;">
+									<li>
+										<a href="#writer-teacher">Writer/Author</a>
+									</li>
+									<li>
+										<a href="#writer-teacher">ESL Instructor</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="#blog">Just Blogged</a>
+							</li>
+							<li>
+								<a href="#ontheweb" data-scroll>On the Web</a>
+							</li>
+							<li>
+								<a href="#contact" data-scroll>Reach Out</a>
+							</li>
+							<li>
+								<a href="#disqus" data-scroll>Discuss</a>
+							</li>
+						</ul>
+						<!-- onepage menu end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!--header end-->
+	</div>
+	<!-- start revolution slider 5.0 -->
+	<section id="home" class="rev_slider_wrapper mt-xs-46">
+		<div class="rev_slider materialize-slider">
+			<ul>
+				<!-- slide 1 start -->
+				<li data-transition="fade" data-slotamount="default" data-easein="Power4.easeInOut"
+					data-easeout="Power4.easeInOut" data-masterspeed="2000"
+					data-thumb="/resources/img/banner-light.jpg" data-rotate="0"
+					data-fstransition="fade"
+					data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"
+					data-title="materialize Material" data-description="">
+					<!-- MAIN IMAGE -->
+					<img src="/resources/img/banner-light.jpg" alt="" data-bgposition="center center"
+					data-bgfit="cover" data-bgrepeat="no-repeat" data-no-retina>
+					<!-- LAYER NR. 1 -->
+					<div class="tp-caption rev-heading text-extrabold dark-text tp-resizeme"
+						data-x="['left','left','center','center']" data-hoffset="['30','30','0','0']"
+						data-y="['middle','middle','top','top']" data-voffset="['-120','-120','40','40']"
+						data-fontsize="['70','70','60','55']"
+						data-lineheight="['80','80','70','60']"
+						data-width="none"
+						data-height="none"
+						data-whitespace="nowrap"
+						data-transform_idle="o:1;"
+						data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:900;e:Power4.easeInOut;"
+						data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+						data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
+						data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+						data-start="800"
+						data-splitin="none"
+						data-splitout="none"
+						data-responsive_offset="on"
+						style="z-index: 5; white-space: nowrap;">Release Date:
+					</div>
+					<!-- LAYER NR. 2 -->
+					<div class="tp-caption rev-heading text-extrabold dark-text tp-resizeme"
+						data-x="['left','left','center','center']" data-hoffset="['30','30','0','0']"
+						data-y="['middle','middle','top','top']" data-voffset="['-50','-50','100','100']"
+						data-fontsize="['70','70','60','55']"
+						data-lineheight="['80','80','70','60']"
+						data-width="none"
+						data-height="none"
+						data-whitespace="nowrap"
+						data-transform_idle="o:1;"
+						data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:900;e:Power4.easeInOut;"
+						data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+						data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
+						data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+						data-start="1000"
+						data-splitin="none"
+						data-splitout="none"
+						data-responsive_offset="on"
+						style="z-index: 5; white-space: nowrap;">February, 2019
+					</div>
+					<!-- LAYER NR. 3 -->
+					<div class="tp-caption tp-resizeme rs-parallaxlevel-3"
+						data-x="['left','left','right','right']" data-hoffset="['20','20','100','0']"
+						data-y="['middle','middle','top','top']" data-voffset="['-170','-170','50','0']"
+						data-fontsize="['25','25','25','25']"
+						data-lineheight="['80','80','90','110']"
+						data-width="none"
+						data-height="none"
+						data-whitespace="nowrap"
+						data-transform_idle="o:1;"
+						data-transform_in="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:1000;transformOrigin:50% 50%;"
+						data-start="1200"
+						data-splitin="none"
+						data-splitout="none"
+						data-responsive_offset="on"
+						style="z-index: 6; width: 85px; height: 85px; background-color: #f6483f; color:#fff;  text-align: center; border-radius: 50%; box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); white-space: nowrap;">
+						<div class="rs-pulse book-price text-extrabold" data-easing="Power4.easeInOut"
+							data-zoomstart="1" data-zoomend="0.55">$28.99<small>/hardcover & </small><span class="red">$17.99</span><small>/paperback</small>
+						</div>
+					</div>
+					<!-- LAYER NR. 4 -->
+					<div class="tp-caption tp-resizeme dark-text"
+						data-x="['left','left','center','center']" data-hoffset="['30','30','30','30']"
+						data-y="['middle','middle','middle','middle']"
+						data-voffset="['50','50','-190','-190']"
+						data-fontsize="['16','16','16','16']"
+						data-lineheight="['30','30','30','30']"
+						data-whitespace="wrap"
+						data-transform_idle="o:1;"
+						data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:900;e:Power4.easeInOut;"
+						data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+						data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
+						data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+						data-start="1200"
+						data-splitin="none"
+						data-splitout="none"
+						data-responsive_offset="on"
+						style="z-index: 5; max-width:504px;">
+						<br/><br/>
+						My new novel, <em><strong>"Walking<br/>Through
+						Brambles: a narrative of circumspection"</strong></em>
+						is out.<br/>
+						Read my latest interview at&nbsp;&nbsp;<a
+							href="https://zimbellhousepublishing.com/author-spotlight/g-w-latimer/"
+						target="_blank">Zimbell House Publishing</a>. <br/>
+						<strong>Get it now at <span style="color:yellow;">Amazon, Barnes &amp; Noble,</span> or a bookstore near you.<br/>Read the
+							<a style="color:yellow;" href="https://www.netgalley.com/widget/170959/redeem/6fe4f22b27da673d6314555eb17bf43ee10889507db1aef206f7ddbf098c4bcc" target="_blank">Net Galley ARC</a>.
+						</div>
+						<!-- LAYER NR. 5 -->
+						<div class="tp-caption tp-resizeme"
+							data-x="['left','left','center','center']" data-hoffset="['30','30','0','0']"
+							data-y="['middle','middle','middle','middle']"
+							data-voffset="['200','200','-50','-50']"
+							data-whitespace="nowrap"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:900;e:Power4.easeInOut;"
+							data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+							data-start="1400"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on"
+							style="z-index: 7;">
+							<br/><a href="https://www.netgalley.com/widget/170959/redeem/6fe4f22b27da673d6314555eb17bf43ee10889507db1aef206f7ddbf098c4bcc" class="btn btn-download book-download waves-effect waves-light"><i
+							class="fa fa-download mr-10"></i>
+						<span>Read for free <strong>Here</strong></span></a>
+						</div>
+						<!-- LAYER NR. 6 -->
+						<div class="tp-caption tp-resizeme"
+							data-x="['left','left','center','center']" data-hoffset="['290','290','0','0']"
+							data-y="['middle','middle','middle','middle']" data-voffset="['200','200','0','0']"
+							data-whitespace="nowrap"
+							data-transform_idle="o:1;"
+							data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:900;e:Power4.easeInOut;"
+							data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+							data-start="1600"
+							data-splitin="none"
+							data-splitout="none"
+							data-responsive_offset="on"
+							style="z-index: 7;">
+							<!--<a href="#" class="btn btn-download book-download waves-effect waves-light"><i
+							class="fa fa-download mr-10"></i>
+							<span>Free Sample <strong>Download</strong></span></a>-->
+						</div>
+						<!-- LAYER NR. 7 -->
+						<div class="tp-caption tp-resizeme rs-parallaxlevel-2"
+							data-x="['right','right','center','center']" data-hoffset="['-30','-30','0','0']"
+							data-y="['middle','middle','bottom','bottom']" data-voffset="['0','0','-30','-30']"
+							data-transform_idle="o:1;"
+							data-transform_in="x:100px;opacity:0;s:1000;e:Power2.easeOut;"
+							data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
+							data-start="1800"
+							style="z-index: 3;">
+							<div><img src="/resources/img/book-back.png" alt=""
+								data-lazyload="/resources/img/book-back.png">
+							</div>
+						</div>
+						<!-- LAYER NR. 8 -->
+						<div class="tp-caption tp-resizeme rs-parallaxlevel-6"
+							data-x="['right','right','center','center']"
+							data-hoffset="['140','140','-70','70']"
+							data-y="['middle','middle','bottom','bottom']"
+							data-voffset="['20','20','-30','-30']"
+							data-transform_idle="o:1;"
+							data-transform_in="x:100px;opacity:0;s:1000;e:Power2.easeOut;"
+							data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
+							data-start="2200"
+							style="z-index: 4;">
+							<div><img src="/resources/img/book-front.png" alt=""
+								data-lazyload="/resources/img/book-front.png">
+							</div>
+						</div>
+				</li>
+					<!-- slide 1 end -->
+			</ul>
+		</div>
+			<!-- end revolution slider -->
+	</section>
+	<hr class="ftr"/>
+	<section id="perfection-slider" class="padding-top-100 padding-bottom-50 banner-5">
+		<div class="container">
+			<div class="flexslider wow fadeInDown">
+				<ul class="slides">
+					<li class="back-slider1"><br/>&nbsp;<br/>
+							<span class="slider1">"All of life's perfections...</span>
+					</li>
+					<li class="back-slider3"><br/>&nbsp;<br/>
+							<span class="slider2">distilled to its finest hour...</span>
+					</li>
+					<li class="back-slider4"><br/>&nbsp;<br/>
+							<span class="slider3">...is now"</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<hr/>
+	<section id="bk-reviews" class="section-padding wow fadeInUp" data-stellar-background-ratio="0.5">
+		<h2 class="section-title text-center">Book Reviews </h2>
+		<div class="container transbg1 wow fadeInUp">
+			<div class="row">
+				<div class="col-md-5 text-center">
+					<div class="wow fadeInUp">
+							<img class="img-responsive" src="/resources/img/me.png" alt="">
+					</div>
+				</div>
+				<div class="col-md-7">
+					<div class="wow fadeInUp">
+						<div class="text-center mb-20">
+							<h3 class="section-title">What People are Saying</h3>
+
+							<div class="section-sub">about <h4 class="book-title">Walking Through
+									Brambles:
+								a narrative of circumspection</h4>
+							</div>
+						</div>
+						<hr class="testimony"/>
+						<div class="thumb-carousel circle-thumb text-center">
+							<ul class="slides">
+								<li data-thumb="/resources/img/critic1.jpg">
+									<div class="content white-text">
+										<p>Quam adipiscing vestibulum feugiat lacus leo a eget leo
+												convallis
+												sagittis
+												nisi varius eros a imperdiet.Dui elementum ut a
+												vestibulum
+												eu
+												fames
+											hendrerit class conubia consequat curae.
+										</p>
+
+										<div class="testimonial-meta">
+												John Doe,
+												<span class="white-text">User Interface Designer</span>
+										</div>
+									</div>
+								</li>
+								<li data-thumb="/resources/img/critic2.jpg">
+									<div class="content white-text">
+										<p>Quam adipiscing vestibulum feugiat lacus leo a eget leo
+												convallis
+												sagittis
+												nisi varius eros a imperdiet.Dui elementum ut a
+												vestibulum
+												eu
+												fames
+											hendrerit class conubia consequat curae.
+										</p>
+
+										<div class="testimonial-meta">
+												Elita Karim,
+												<span class="white-text">User Interface Designer</span>
+										</div>
+									</div>
+								</li>
+								<li data-thumb="/resources/img/critic3.jpg">
+									<div class="content white-text">
+										<div class="testimonial-meta">
+												Tomas Udoya,
+												<span class="white-text">User Interface Designer</span>
+										</div>
+										<p>Quam adipiscing vestibulum feugiat lacus leo a eget leo
+												convallis
+												sagittis
+												nisi varius eros a imperdiet.Dui elementum ut a
+												vestibulum
+												eu
+												fames
+											hendrerit class conubia consequat curae
+										</p>
+									</div>
+								</li>
+								<li data-thumb="/resources/img/critic4.jpg">
+									<div class="content white-text">
+										<p>Quam adipiscing vestibulum feugiat lacus leo a eget leo
+												convallis
+												sagittis
+												nisi varius eros a imperdiet.Dui elementum ut a
+												vestibulum
+												eu
+												fames
+											hendrerit class conubia consequat curae.
+										</p>
+
+										<div class="testimonial-meta">
+												Jonathon Bin,
+												<span class="white-text">User Interface Designer</span>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<!-- /.container -->
+	</section>
+	<hr/>
+	<section id="about" class="padding-top-110 section-padding banner-6 parallax-bg bg-fixed overlay">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<div class="z-depth-1 panel">
+						<h2 class="section-title">About Me</h2>
+
+						<div class="about-container">
+							<p>Well, let's see. I took my first breath the Sunday evening of January 20,
+									19-something. Don't ask me my age unless you're prepared to believe a lie. I
+									grew up
+									in Texas and Indiana where I rode motorcycles through corn fields, paddled
+									canoes
+									over waterfalls, dreamed of being a poet--an expatriate living in a far and
+									distant
+									land. I went to college in Utah and Texas and have a BA in Theatre and another
+									one
+									in English (composition & rhetoric). I lived in New York City for a while and
+									attended the National Shakespeare Conservatory but dropped out after spending
+									all of
+									my student-aid money on 2-months rent, a plate of eggs benedict, and a
+									basketball. I
+								know, crazy, right? Why did I buy a basketball?
+							</p>
+
+							<p>I worked as a technical editor for a publishing company in NYC. Recently married,
+									we lived in a tiny "artsy" (meaning mouse and roach infested) studio in Gramercy
+									Park. A couple of years later, our beautiful daughter was born and we moved to
+									Texas where I went to work for its democratic governor. And suddenly I
+									discovered that I was a closet socialist and then summarily "fired" when Bush
+									came to town. I spent my early career looking for a career. Spent my mid-career
+									trying to resuscitate my first career and soon thereafter settled into my
+									current career that felt like coming to after falling down the balcony stairs. I
+									love what I do and do it quite well. Initially, however, I wanted to write
+									novels on a beach in Northern Africa or make cheese out of a wagon while
+									traveling with gypsies, but I was pressed into a real job due to the above
+								mentioned child and a delinquent student loan.
+							</p>
+
+							<p>I've always believed that life is a journey as depicted by the tiny rune tattooed
+									on
+									my hand. And so I aim to journey on without the
+									pathos of a martyr looking over his shoulder at an image blurred by age and
+									remorse.
+									I try to guide my life by that tiny voice within me struggling each day to sever
+									myself from ego. I hope to
+									obtain someday the wise dignity of an artist or a scholar; always pressing
+									forward
+									like everyman--going to work, paying the bills, feeding the family, reasoning
+									his
+								way through days that go on and on like rain dripping down a mountain.
+							</p>
+						</div>
+						<div class="cta-button">
+								<!--  <a href="#!" class="btn melon mr-20 waves-effect waves-light">Download CV</a>-->
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="author-wrapper profile melon z-depth-1">
+						<div class="author-cover">
+								<img class="img-responsive" src="/resources/img/authorBanner.jpg" alt="">
+						</div>
+						<div class="author-avatar">
+								<img class="img-responsive" src="/resources/img/rufus.jpg" alt="">
+								<h4 class="text-extrabold text-uppercase no-margin">G.W. Latimer</h4>
+								<h5><em>&#x2154; human; &#x2153; schnauzer</em></h5>
+						</div>
+						<div style="text-align:center;">
+								<em>just enough baggage to have a personality</em>
+								<hr class="quotes"/>
+						</div>
+						<div class="bio">
+								<p style="text-align:center;">Latest Novel:<br/><em>Walking Through Brambles:<br/>a
+								narrative of circumspection</em></p>
+
+								<p style="text-align:center;"><i class="small material-icons">blur_on</i></p>
+
+								<p style="text-align:center;">Upcoming Anthology:<br/><em>Quantum Bubbles
+								Rising </em></p>
+								<hr class="quotes"/>
+						</div>
+
+							<span class="available"><a class="page-scroll" href="#contact">Available for Freelance
+							Work</a></span>
+					</div>
+						<!-- /author-info-wrapper -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<hr/>
+	<section id="writer-teacher" class="section-padding">
+		<?php include 'inc/writer.php'; ?>
+	</section>
+	<hr/>
+	<section id="blog" class="section-padding banner-10 parallax-bg bg-fixed overlay"
+			data-stellar-background-ratio="0.5" style="background-position: 0% 142px;">
+		<div class="container">
+			<h2 class="section-title text-center">Just Blogged</h2>
+			<div class="panel">
+				<div class="panel-body white-text">
+					<?php include "inc/blog.php"; ?>
+				</div>
+			</div>
+		</div>
+	</section>
+	<hr/>
+	<section id="ontheweb" class="section-padding">
+		<div class="container">
+			<h3 class="sub-title text-center">On the Web</h3>
+			<h4 class="text-center">Find me here:</h4>
+
+			<div class="rufus-bottom wow fadeInUp">
+				<div class="clients">
+					<div class="gutter">
+						<div class="col-md-4 col-sm-6">
+							<div class="border-box">
+								<a href="http://www.thefogandwave.com" target="_blank">
+									<img class="web img-responsive" src="/resources/img/fogandwave.jpg"
+											alt="clients">
+								</a>
+								<p class="text-center">
+									<a href="http://www.thefogandwave.com" target="_blank">www.thefogandwave.com</a>
+								</p>
+							</div>
+						</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="border-box">
+								<a href="http://www.irisandpith.com" target="_blank">
+									<img class="web img-responsive" src="/resources/img/ip.jpg" alt="clients">
+								</a>
+
+								<p class="text-center">
+									<a href="http://www.irisandpith.com" target="_blank">www.irisandpith.com</a>
+								</p>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="border-box">
+							<a href="http://www.gwlatimer.com" target="_blank">
+								<img class="web img-responsive" src="/resources/img/gwlatimer.jpg"
+											alt="clients">
+							</a>
+
+							<p class="text-center">
+								<a href="http://www.gwlatimer.com"
+										target="_blank">www.gwlatimer.com</a>
+							</p>
+						</div>									
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<hr/>
+	<section id="contact" class="section-padding contact-form-wrapper">
+		<div class="container">
+			<div class="mb-30 wow fadeInUp">
+				<h2 class="section-title text-center">Reach Out</h2>
+
+				<p class="section-sub">Have a story idea you want to discuss? Or maybe ideas about something else altogether?
+						Send me a note, I'd love to hear from you.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-8 wow fadeInLeft">
+					<form name="contact-form" id="contactForm" class="clearfix" action="/inc/sendemail.php" method="POST">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="input-field">
+									<input type="text" name="name" class="validate" id="name">
+									<label for="name">Name</label>
+								</div>
+							</div>
+									<!-- /.col-md-6 -->
+							<div class="col-md-6">
+								<div class="input-field">
+									<label class="sr-only" for="email">Email</label>
+									<input id="email" type="email" name="email" class="validate">
+									<label for="email" data-error="wrong" data-success="right">Email</label>
+								</div>
+							</div>
+									<!-- /.col-md-6 -->
+						</div>
+								<!-- /.row -->
+						<div class="row">
+							<div class="col-md-6">
+								<div class="input-field">
+									<input id="phone" type="tel" name="phone" class="validate">
+									<label for="phone">Phone Number</label>
+								</div>
+							</div>
+									<!-- /.col-md-6 -->
+							<div class="col-md-6">
+								<div class="input-field">
+									<input id="subject" type="text" name="subject" class="validate">
+									<label for="subject">Subject</label>
+								</div>
+							</div>
+									<!-- /.col-md-6 -->
+						</div>
+								<!-- /.row -->
+						<div class="input-field">
+							<textarea name="message" id="message" class="materialize-textarea"></textarea>
+							<label for="message">Message</label>
+						</div>
+							<button type="submit" name="submit"
+									class="waves-effect waves-light btn melon right mt-30">
+									Send Message
+							</button>
+					</form>
+				</div>
+						<!-- /.col-md-8 -->
+				<div class="col-md-4 contact-info wow fadeInRight">
+					<address>
+								<i class="material-icons melon-link">&#xE8B4;</i>
+
+								<div class="address">
+									125 SW Campus Dr, #16-306<br>
+									Federal Way, WA  98023
+									<hr>
+								</div>
+								<i class="material-icons melon-link">&#xE61C;</i>
+
+								<div class="phone">
+									<p>Phone: (929) 430-4426</p>
+								</div>
+								<i class="material-icons melon-link">&#xE0B7;</i>
+
+								<div class="mail">
+									<p>
+										<a href="mailto:gwl@gwlatimer.com">gwl@gwlatimer.com</a><br>
+									<a href="#">www.gwlatimer.com</a></p>
+										<p><a href="mailto:web@thefogandwave.com">web@thefogandwave.com</a><br>
+										<a href="#">www.thefogandwave.com</a></p>
+
+											<p><a href="mailto:web@irisandpith.com">web@irisandpith.com</a><br>
+											<a href="#">www.irisandpith.com</a></p>
+
+
+								</div>
+					</address>
+				</div>
+									<!-- /.col-md-4 -->
+			</div>
+								<!-- /.row -->
+		</div>
+	</section>
+	<hr/>
+
+					<footer class="footer footer-two">
+						<div class="primary-footer">
+							<div class="container">
+								<a href="#top"
+									class="page-scroll btn-floating btn-large melon back-top waves-effect waves-light wow fadeInUp"
+									data-section="#top">
+									<i class="material-icons">&#xE316;</i>
+								</a>
+
+								<div class="row">
+									<div class="col-md-12 text-center wow fadeInDown">
+										<div class="footer-logo">
+											<img class="retina img-responsive" src="/resources/img/logo.png" alt="">
+										</div>
+										<ul class="social-link tt-animate ltr">
+											<li><a href="https://www.facebook.com/thejspguy"><i class="fa fa-facebook"></i></a></li>
+											<li><a href="https://twitter.com/LatimerG?lang=en"><i class="fa fa-twitter"></i></a>
+											</li>
+											<li><a href="skype:zom.b.food"><i class="fa fa-skype"></i></a></li>
+											<li><a href="https://www.linkedin.com/in/sassmaster/"><i class="fa fa-linkedin"></i></a>
+											</li>
+										</ul>
+									</div>
+									<!-- /.col-md-12 -->
+								</div>
+								<!-- /.row -->
+								<hr class="ftr"/>
+								<p id="counter" class="text-center">
+									<!--<script language="JavaScript">var fhsh = document.createElement('script');
+										var fhs_id_h = "3326546";
+
+										fhsh.src = "//freehostedscripts.net/ocount.php?site=" + fhs_id_h + "&a=1";
+										document.head.appendChild(fhsh);
+										document.write("logid=gwlatimer: <span id='h_" + fhs_id_h + "'></span>.061919");
+									</script>-->
+								</p>
+							</div>
+							<!-- /.container -->
+						</div>
+						<!-- /.primary-footer -->
+						<p>&nbsp;</p>
+						<section id="disqus" class="section no-padding">
+							<div class="container comments wow fadeInUp">
+								<div id="disqus_thread"></div>
+								<script>
+                        /**
+                         *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                        /*
+                         var disqus_config = function () {
+                         this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                         this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                         };
+                         */
+                        (function () { // DON'T EDIT BELOW THIS LINE
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://thefogandwave-com.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments
+                            powered by Disqus.</a></noscript>
+							</div>
+						</section>
+						<div class="secondary-footer">
+							<div class="container">
+
+								<span class="copy-text">Copyright &copy; 2019 <a href="#">thefogandwave.com</a> &nbsp;  | &nbsp;  All Rights Reserved &nbsp;  | &nbsp;  Built From Scratch By <a
+								href="#">UI Design Engineering</a></span>
+							</div>
+
+						</div>
+						<!-- /.secondary-footer -->
+						<div class="container">
+							<a href="#top"
+								class="page-scroll btn-floating btn-large melon back-top waves-effect waves-light wow fadeInDown"
+								data-section="#top">
+								<i class="material-icons">&#xE316;</i>
+							</a>
+						</div>
+					</footer>
+					<!-- Preloader -->
+					<div id="preloader">
+						<div class="preloader-position">
+							<img src="/resources/img/logo.png" alt="logo">
+
+							<div class="progress">
+								<div class="indeterminate"></div>
+							</div>
+						</div>
+					</div>
+					<!-- End Preloader -->
+					<!-- jQuery -->
+					<script src="/resources/js/jquery-2.1.3.min.js"></script>
+					<script src="/resources/bootstrap/js/bootstrap.min.js"></script>
+					<script src="/resources/materialize/js/materialize.min.js"></script>
+					<script src="/resources/js/menuzord.js"></script>
+					<script src="/resources/js/bootstrap-tabcollapse.min.js"></script>
+					<script src="/resources/js/jquery.easing.min.js"></script>
+					<script src="/resources/js/jquery.sticky.min.js"></script>
+					<script src="/resources/js/smooth-menu.js"></script>
+					<script src="/resources/js/jquery.stellar.min.js"></script>
+					<script src="/resources/js/imagesloaded.js"></script>
+					<script src="/resources/js/jquery.inview.min.js"></script>
+					<script src="/resources/js/jquery.shuffle.min.js"></script>
+					<script src="/resources/js/wow.min.js"></script>
+					<script src="/resources/owl.carousel/owl.carousel.min.js"></script>
+					<script src="/resources/flexSlider/jquery.flexslider-min.js"></script>
+					<script src="/resources/magnific-popup/jquery.magnific-popup.min.js"></script>
+					<script src="/resources/js/fog.min.js"></script>
+					<script>
+						new WOW({
+							mobile: false
+						}).init();
+						// Can also be used with $(document).ready()
+						$(window).load(function () {
+							$('.flexslider').flexslider({
+								animation: "slide",
+								slideshow: false
+							});
+						});
+					</script>
+					<!-- RS5.0 Core JS Files -->
+					<script src="/resources/revolution/js/jquery.themepunch.tools.min.js"></script>
+					<script src="/resources/revolution/js/jquery.themepunch.revolution.min.js"></script>
+					<!-- RS5.0 Init  -->
+					<script type="text/javascript">
+						jQuery(document).ready(function () {
+							jQuery(".materialize-slider").revolution({
+								sliderType: "standard",
+								sliderLayout: "fullwidth",
+								delay: 9000,
+								responsiveLevels: [1240, 1024, 768, 480],
+								gridwidth: [1140, 1024, 768, 480],
+								gridheight: [800, 800, 900, 900],
+								disableProgressBar: "on",
+								parallax: {
+									type: "mouse",
+									origo: "slidercenter",
+									speed: 2000,
+									levels: [2, 3, 4, 5, 6, 7, 12, 16, 10, 50],
+								}
+							});
+						});
+					</script>
+					<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems! The following part can be removed on Server for On Demand Loading) -->
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.video.min.js"></script>
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+					<script type="text/javascript"
+					src="/resources/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+					<div class="links" style="position: absolute !important; margin-bottom: -2000px !important; z-index: 0;
+						color: transparent !important;">
+						<a style="color:transparent;" href="http://www.irisandpith.com">Webster Latimer - Author, Walking Through Brambles</a>
+						<a style="color:transparent;" href="http://www.gwlatimer.com">G. Webster Latimer - Author, Walking Through Brambles</a>
+						<a style="color:transparent;" href="http://www.milkandbourbon.com">Adam Marsh - Author, Walking Through Brambles</a>
+						<a style="color:transparent;" href="http://www.milkandbourbon.com/index.php">Adam Marsh - Author, Walking Through Brambles</a>
+						<a style="color:transparent;" href="http://www.milkandbourbon.com/pages/home.php">Adam Marsh - Author, Walking Through Brambles</a>
+						<a style="color:transparent;" href="http://www.adam-marsh.com">Adam L Marsh - Author, Walking Through Brambles</a>
+						<a style="color:transparent;" href="http://www.myuikit.com/book/book.php">gwlatimer - Author, Walking Through Brambles</a>
+						<a style="color:transparent;" href="http://www.myuikit.com">GW Latimer - Author, Walking Through Brambles</a>
+					</div>
+
+				</body>
+			</html>
+
+
+
